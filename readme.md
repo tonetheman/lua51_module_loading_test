@@ -55,5 +55,6 @@ Lua out of the box at least for 5.1 does not have a traditional OO class builtin
 HardonCollider has more strict requirements in that area and wants to use something called class commons. See the next section.
 
 ## common class loading?
+Still not sure how any of this works ha.
 
 https://github.com/bartbes/Class-Commons 
